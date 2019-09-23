@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertica_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin">
+
+    <ImageView
+        android:id="@+id/img_view"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/txt_nama_presiden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NAMA PRESIDEN"
+        android:layout_toRightOf="@+id/img_view"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/txt_static_masa_periode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Masa Periode"
+        android:layout_below="@id/txt_nama_presiden"
+        android:layout_toRightOf="@id/img_view"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="12sp"/>
+
+    <TextView
+        android:id="@+id/txt_periode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2020 - 2024"
+        android:layout_toRightOf="@+id/img_view"
+        android:layout_below="@+id/txt_static_masa_periode"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="12sp"/>
+
+</RelativeLayout>

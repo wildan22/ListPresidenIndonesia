@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Daftar Presiden Indonesia</string>
+
+
+    <string-array name="data_name">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>Bacharuddin Jusuf Habibie</item>
+        <item>Abdurrahman Wahid</item>
+        <item>Megawati Soekarnoputri</item>
+        <item>Susilo Bambang Yudhoyono</item>
+        <item>Joko Widodo</item>
+    </string-array>
+
+    <string-array name="data_masa_jabat">
+        <item>18 Agustus 1945 - 12 Maret 1967</item>
+        <item>12 Maret 1967 - 21 Mei 1998</item>
+        <item>21 Mei 1998 - 20 Oktober 1999</item>
+        <item>20 Oktober 1999 - 23 Juli 2001</item>
+        <item>23 Juli 2001 - 20 Oktober 2004</item>
+        <item>20 Oktober 2004 - 20 Oktober 2014</item>
+        <item>20 Oktober 2014 - Saat Ini</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Presiden Soekarno merupakan Proklamator Kemerdekaan Republik Indonesia, beliau juga yang mengeluarkan perintah untuk pembangunan Monumen Nasional (Monas) pada 17 Agustus 1961.Sebelum memproklamirkan kemerdekaan Indonesia, Di depan sidang BPUPKI, Soekarno telah menyampaikan visi tentang falsafah dan dasar Negara pada 1 Juni 1945. Tanggal ini kemudian ditetapkan sebagai Hari Lahir Pancasila. Pada tanggal 19 Desember 1961 sebagai Presiden, Soekarno punya pengumuman penting atas pelaksanaan Trikora di Alun-Alun Utara Yogyakarta. Lalu dibentuklah Komando Mandala dengan Mayjen Soeharto sebagai Panglima. Tugasnya adalah merencanakan, mempersiapkan, dan menyelenggarakan operasi militer demi mempertahankan dan menggabungkan Papua bagian barat jadi satu kesatuan dengan Indonesia.</item>
+        <item>Presiden Soeharto dijuluki sebagai “Bapak Pembangunan”Soeharto membangkitkan Indonesia dari keterpurukan ekonomi dari peninggalan pemerintahan orde lama. Pada masa Soeharto biaya pendidikan juga sangat murah. Dulu sekolah-sekolah mematok tarif yang sangat terjangkau, bahkan sampai tingkat universitas. Lapangan pekerjaan sangat mudah didapatkan. Menjadikan Pancasila sebagai garda terdepan pembangunan generasi muda dalam pendidikan Indonesia. Bidang olahraga Indonesia di masa Keemasannya.</item>
+        <item>Habibie Pernah jadi Wapres perusahaan penerbangan di Jerman. BJ Habibie dianugerahi kecerdasaan luar biasa. Sejak di bangku sekolah, beliau mendapat prestasi di bidang eksata. Habibie membuat pesawat yang melebihi 20 kali kecepatan suara. Ditunjuk sebagai Presiden Direktur PT. IPTN, produksi pesawat milik bangsa. Menjabat sebagai Menteri Riset dan Teknologi hingga jadi Presiden RI menggantikan Soeharto. Habibie menerima Award von Karman pada tahun 1992. Penghargaan tersebut setara dengan hadiah Nobel. Habibie berhasil menciptakan pesawat pertama buatan Indonesia yang dinamai N250 Gatot Kaca. Tahun 2017 silam, Habibie bahkan kembali melanjutkan proyek pesawat terbang dengan nama seri R80.</item>
+        <item>Pada masa Abdurahman Wahid, harga beras stabil. Beras yang dipasarkan adalah beras produk lokal, bukan beras hasil impor negara lain. Ekonomi Indonesia maju dari yang minus 3 hingga plus 7,5% kurun waktu 2 tahun. Hutang berkurang 4,5 miliar dolar. Baik dengan suap, hutang dengan hutang, dan suap baik dengan hutang mahal dengan hutang murah. Ekspor naik menjadi 2 kali lipatnya. Beras dan pangan stabil. Peningkatan gaji PNS menjadi 2 kali lipat. Ekonomi pulih kembali. Modal PLN naik dari minus 9 triliun menjadi 104 triliun. Hutang harga bikin listrik berkurang dari 85 miliar menjadi 35 miliar. Mendapat potongan 50 miliar. Proyek Pak Habibie rugi ratusan miliar, menjadi untung 14 miliar dalam kurun waktu 2 tahun.</item>
+        <item> Presiden Megawati menstabilkan fundamen ekonomi makro meliputi inflasi, BI rate, pertumbuhan ekonomi, kurs rupiah thdp dolar, angka kemiskinan. Tidak membiarkan pemerintahannya terkooptasi oleh konflik kepentingan konglomerat yaitu dgn tidak mengangkat pengusaha bermasalah menjadi bagian dari pemerintahannya sehingga tidak terjadi state capture corruption sebagaimana terjadi saat ini. Melakukan stabilisasi kondisi polhukkam dalam negeri peninggalan pemerintahan sebelumnya (1998-2001) yang penuh dgn “kegaduhan” sehingga Indonesia bisa kembali membangun.</item>
+        <item>Pada masa jabatan Presiden SBY, kekuatan Ekonomi Nomor 10 Dunia 2014, versi Bank Dunia, dengan indikator  PDB dan daya beli. Masuk dalam G-20 Negara Ekonomi Terkuat Dunia pada 2009. Inilah prestasi besar Indonesia, masuk ke dalam jajaran negara-negara dengan ekonomi terbesar dunia. Melunasi Utang IMF dan tidak lagi tergantung kepada lembaga tersebut. SBY juga membubarkan kelompok negara CGI (Sebelumnya bernama IGGI) yang biasa memberikan utang dengan syarat-syarat yang membebani dan mengekang Indonesia. Menurunkan rasio utang luar negeri. Pendapatan Perkapita Naik, Kelas Menengah Naik. Jumlah pendapatan perkapita orang Indonesia naik signifikan dalam 10 tahun terakhir.</item>
+        <item>prestasi Jokowi yang paling dominan, adalah pembangunan infrastruktur. Salah satunya pembangunan jalan tol. Berdasarkan data Badan Pengatur Jalan Tol (BPJT) Kementerian PUPR, hingga 20 Oktober 2018, total panjang jalan tol yang sudah dioperasikan pada periode Oktober 2014-Oktober 2018 mencapai 423,17 km.Penurunan tingkat kemiskinan dalam pemerintahan Presiden Joko Widodo, untuk pertama kali dalam sejarah Indonesia penurunan kemiskinan mencapai single digit, yaitu sebesar 9.82% di tahun 2018. Pemerintahan Joko Widodo berkomitmen untuk tetap menjaga anggaran pendidikan dalam APBN 2019 sebesar 20% dari APBN, yaitu sebesar Rp. 492.5 Triliun Rupiah.</item>
+        <item>test</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soeharto</item>
+        <item>@drawable/bj_habibie</item>
+        <item>@drawable/abdurahman_wahid</item>
+        <item>@drawable/megawati</item>
+        <item>@drawable/sby</item>
+        <item>@drawable/joko_widodo</item>
+    </string-array>
+    <string name="title_activity_detail_president">DetailPresidentActivity</string>
+
+
+</resources>
